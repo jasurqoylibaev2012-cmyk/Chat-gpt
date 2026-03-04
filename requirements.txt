@@ -1,0 +1,12 @@
+aiogram
+openai
+python-dotenv
+pyngrok
+httpx
+aiohttp-socks
+google-generativeai
+numpy
+matplotlib
+pymupdf
+yt-dlp
+duckduckgo-search
